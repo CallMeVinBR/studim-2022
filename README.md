@@ -9,3 +9,19 @@ Durante o desenvolvimento deste projeto, fui responsável pela programação bac
 
 > [!WARNING]
 > Certifique-se de mudar os dados de sua conexão MySQL no arquivo ```conexao.php```, no diretório ADM.
+
+## Acessos para teste
+### Aluno
+| Email | Senha |
+|-------|-------|
+| aluno@gmail.com | 123 |
+
+### Professor (inserir notas)
+| Email | Senha |
+|-------|-------|
+| prof@gmail.com | 123 |
+
+### Administrador (para criar contas)
+| Email | Senha |
+|-------|-------|
+| studim@gmail.com | studim2022 |
