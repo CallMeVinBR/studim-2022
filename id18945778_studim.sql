@@ -42,7 +42,7 @@ CREATE TABLE `adm` (
 --
 
 INSERT INTO `adm` (`cod_adm`, `nome`, `email`, `senha`) VALUES
-(1, 'Studim ADMs', 'contato.studim@gmail.com', '18140815-studim');
+(1, 'Studim ADMs', 'studim@gmail.com', 'studim2022');
 
 -- --------------------------------------------------------
 
