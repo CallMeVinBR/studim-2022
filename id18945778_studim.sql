@@ -65,7 +65,8 @@ CREATE TABLE `aluno` (
 --
 
 INSERT INTO `aluno` (`al_cod`, `al_ra`, `al_nome`, `al_endereco`, `al_email`, `al_senha`, `al_curso`) VALUES
-(1, '1012001JKAKD', 'Joel', NULL, 'testealuno@gmail.com', '1123', NULL);
+('2', '123123ABCD', 'Aluno', NULL, 'aluno@gmail.com', '$2y$10$GueqCY6EpKU1WNZSaEGxOuxOZtYMgeSQ8TyTCykJ8E/U4fuS21HF2', NULL)
+
 
 -- --------------------------------------------------------
 
@@ -104,7 +105,7 @@ CREATE TABLE `cursos` (
 --
 
 INSERT INTO `cursos` (`cur_cod`, `cur_nome`, `cur_ativo`) VALUES
-(23, 'teste2123', '1');
+(23, 'Matemática', '1');
 
 -- --------------------------------------------------------
 
@@ -152,7 +153,7 @@ CREATE TABLE `prof` (
 --
 
 INSERT INTO `prof` (`pro_cod`, `pro_nome`, `pro_tel`, `pro_email`, `pro_senha`, `pro_curso`, `pro_matricula`) VALUES
-(1, 'Ana', NULL, 'testeprof@gmail.com', 'frgeiqfhuifhiu', NULL, '12312412ASD');
+('2', 'Professor', NULL, 'prof@gmail.com', '$2y$10$YLPtzVtf9S.47u87W/zIbeG9aD0T80S1Yyyh5m/GEMDVP4YqYOzcm', NULL, '123123EFGH');
 
 --
 -- Índices para tabelas despejadas
