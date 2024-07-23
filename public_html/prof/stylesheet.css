@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(../img/fundo.png);
+}
+
+
+/*deixa o modal de lado*/
+.modal {
+  width: 300px;
+}
+.modal-content {
+  width: 300px;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: var(--bs-list-group-active-color);
+    background-color: #f7f7f7;
+    border-color: #012b66;
+}
+/*modal*/
+
+/*tabela*/
+
+.btn:hover {
+    box-shadow: 5px 5px 10px 2px;
+}
+
+.cursos{
+    border-radius: 1px;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+.cursos:hover{
+
+    cursor:pointer;
+   
+}
+
+.inttext {
+    font-family: 'Poppins';
+    text-indent: 10px;
+    height: 35px;
+    border-radius: 5px;
+    border: solid #333 1px;
+    outline: none;
+    font-weight: bold;
+}
+
+#nav-container{
+    margin-left: 400px;
+ }
+
+
+.btn{
+    margin-top: 0.5%;
+    margin-left: 48%;
+   
+}
+.panel{
+    background-color: rgba(202, 202, 202, 0.192);
+    margin-top: 30px;
+}
+.titulo{
+    margin-bottom: 30px;
+}
+.tituloTabela{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.agenda{
+    margin-top: 50px;
+    margin-left: 820px;
+    box-shadow: -0.6em -0.6em 1.2em #cdd6e269;
+    max-width: 500px;
+}
+
+.texto{
+    margin-top: 225px;
+    max-width: 400px;
+    margin-left: 50px;
+    align-items: center;
+    float: left;
+}
+
+.texto h2 span{
+    color: green;
+    font-size: 1.2em;
+    font-weight: 900;
+}

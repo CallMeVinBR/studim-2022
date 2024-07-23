@@ -1,0 +1,125 @@
+body{
+    background-attachment: fixed;
+}
+
+.align{
+    margin: auto;
+    width: 35%;
+}
+
+.c-txt{
+    color: white;
+}
+
+.c-txt:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.conta-a{
+    text-align: center;
+    height: 30px;
+    width: 3.1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    position: relative;
+    border-radius: 20px;
+    background-color: #659d4b;
+    align-items: center;
+    display: inline-block;
+    border: 1 black;
+}
+
+.conta-p{
+    text-align: center;
+    height: 30px;
+    width: 4.4em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    position: relative;
+    border-radius: 20px;
+    background-color: #659d4b;
+    align-items: center;
+    display: inline-block;
+}
+
+.conta-p:hover{
+    text-decoration: none;
+    background-color: #4beb70;
+    color: white;
+    
+}
+
+.conta-a:hover{
+    text-decoration: none;
+    background-color: #4beb70;
+    color: white;
+}
+
+.login{
+    height: 100%; 
+    overflow: hidden;
+    background-size: cover;
+    background-image: url(img/fundo_tela.png);
+  }
+
+  .registro{
+   
+    background-image: url(img/7235097.webp);
+    background-size: cover;
+  }
+
+  form{
+    justify-content: center;
+  }
+  
+  .l-form{
+    background-color:rgba(210, 230, 214, 0.5);
+    border-radius:12px;
+    padding: 12px;
+  }
+  
+  .i-form{
+    border-radius:12px;
+    padding: 12px;
+  }
+
+  .p1{
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .a2{
+    color: red;
+  }
+
+
+  .a1:hover{
+    color: #F54238;
+    text-decoration: none;
+  }
+
+  .a1{
+    color: red;
+  }
+
+  .p2{
+    text-align: center;
+    font-size: 15px;
+    
+  }
+  
+  .a2:hover{
+    text-decoration: none;
+    color: #F54238;
+  }
+
+  .regtxt{  
+    font-family: arial;
+    font-size: 2.3em;
+    text-align: center;
+    
+  }
+  
