@@ -1,5 +1,5 @@
 # Sobre
-Este projeto tinha sido desenvolvido para atender às necessidades de uma Organização Não-Governamental acadêmica em 2022.
+Este projeto tinha sido desenvolvido para atender as necessidades de uma Organização Não-Governamental acadêmica em 2022.
 
 Durante o desenvolvimento deste projeto, fui responsável pelo Desenvolvimento Fullstack, com PHP e SQL para o back-end, utilizando a MariaDB como nosso banco de dados sendo o phpMyAdmin nosso SGBD e o 000webhost o nosso domínio.
 
